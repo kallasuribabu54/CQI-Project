@@ -10,7 +10,7 @@ The goal was to uncover insights into how factors such as aroma, flavor, acidity
 
 Coffee producers, traders, and quality graders often rely on sensory evaluation to assess coffee quality. However, understanding which attributes most strongly influence quality scores can help them:
 
-Identify improvement areas in processing or cultivation.
+Identify improvement areas in processing.
 
 Standardize quality grading.
 
@@ -29,25 +29,9 @@ Visualize regional and processing method trends in coffee grading.
 
 The dataset contains coffee quality evaluation results with fields such as:
 
-Country of Origin
-
-Region
-
-Altitude
-
-Processing Method
-
-Harvest Year
-
-Variety
-
-Sensory Attributes: Aroma, Flavor, Acidity, Body, Balance, Uniformity, Clean Cup, Sweetness, Aftertaste
-
-Total Cup Points
-
+Country of Origin, Region, Altitude,Processing Method, Harvest Year, Sensory Attributes: (Aroma, Flavor, Acidity, Body, Balance, Uniformity, Clean Cup, Sweetness, Aftertaste),Total Cup Points
 
 Data was cleaned and prepared in Excel, then imported into Power BI for analysis.
-
 
 # ⚙ Data Cleaning & Preparation
 
@@ -67,27 +51,21 @@ Ensured consistent numeric data types for sensory attributes.
 
 Key Visuals:
 
-1. Correlation Matrix – To identify the strongest relationships between sensory attributes and Total Cup Points.
+1. Scatter Charts – Visual comparison between each sensory score and overall quality.
 
+2. Decomposition Tree – Interactive breakdown of how each sensory factor impacts cup score.
 
-2. Scatter Charts – Visual comparison between each sensory score and overall quality.
+3. Bar Charts – scores by region, processing method, and variety.
 
+4. Slicers – For exploring insights by country, processing method, and harvest year.
 
-3. Decomposition Tree – Interactive breakdown of how each sensory factor impacts cup score.
-
-
-4. Bar Charts & KPIs – Average scores by region, processing method, and variety.
-
-
-5. Slicers – For exploring insights by country, processing method, and harvest year.
-
-
+5. Scatter Charts - Too See the impact of the defects on the overall coffee quality.
 
 Key Insights:
 
-Aroma, Flavor, and Balance are the top predictors of coffee quality.
+Aroma, Flavor are the top predictors of coffee quality.
 
-Washed processing methods generally result in higher Total Cup Points.
+Washed(Wet) processing methods generally result in higher Total Cup Points.
 
 Higher altitudes tend to produce better cup scores.
 
@@ -111,14 +89,6 @@ Power BI – Visualization and dashboard creation
 
 GitHub – Project documentation and version control
 
-# 📂 Files Included
-
-coffee_quality_dashboard.pbix → Power BI report file
-
-cleaned_coffee_quality.xlsx → Final dataset used for visualization
-
-README.md → Project documentation
-
 # 🌍 Conclusion
 
 This project demonstrates how data analytics can bring clarity and value to agricultural quality assessment.
@@ -126,6 +96,6 @@ By visualizing sensory attributes and their influence on total quality, stakehol
 
 # 🔗 Connect with Me
 
-👤 [Your Name] – Aspiring Data Analyst
+👤 [Kalla Suribabu] – Aspiring Data Analyst
 🔗 GitHub Profile
 🔗 LinkedIn Profile
