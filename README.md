@@ -110,4 +110,3 @@ By visualizing sensory attributes and their influence on total quality, stakehol
 
 👤 [Kalla Suribabu] – Aspiring Data Analyst
 🔗 GitHub Profile - https://github.com/kallasuribabu54
-🔗 LinkedIn Profile
