@@ -1,5 +1,7 @@
 # ☕ Coffee Quality Analysis Dashboard – Power BI
 
+<img width="1258" height="694" alt="CQI Dashboard Snapshot" src="https://github.com/user-attachments/assets/9d915085-88d7-40df-83ab-a78ee33b65f5" />
+
 # 📊 Project Overview
 
 This project explores the key determinants of coffee quality using a dataset containing detailed sensory evaluation attributes.
