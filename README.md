@@ -53,17 +53,25 @@ Ensured consistent numeric data types for sensory attributes.
 
 Key Visuals:
 
-1. Scatter Charts – Visual comparison between each sensory score and overall quality.
+1. Sensory Attributes Effects on Coffee Quality(Scatter Charts) – Visual comparison between each sensory score and overall quality.
 
 <img width="1393" height="777" alt="CQI Effects Snapshot" src="https://github.com/user-attachments/assets/0b2a19be-a4bb-4946-b3fb-aacbe2afa93a" />
 
-2. Decomposition Tree – Interactive breakdown of how each sensory factor impacts cup score.
+2. Variables Contribution(Decomposition Tree) – Interactive breakdown of how each factor impacts cup score.
 
-3. Bar Charts – scores by region, processing method, and variety.
+<img width="1386" height="778" alt="CQI Contribution Snapshot" src="https://github.com/user-attachments/assets/7564225f-1923-4111-9aa0-a8b6f3691282" />
 
-4. Slicers – For exploring insights by country, processing method, and harvest year.
+3. Region/Processing Method Analysis(Bar Charts) – scores by region & processing method.
 
-5. Scatter Charts - Too See the impact of the defects on the overall coffee quality.
+<img width="1239" height="678" alt="CQI Analysis Snapshot" src="https://github.com/user-attachments/assets/194b1bbd-61ad-43af-834e-43f13f8d93b8" />
+
+4. Defects Impact on Quality(Scatter Charts) - Too See the impact of the defects on the overall coffee quality.
+
+<img width="1243" height="671" alt="CQI Defects Snapshot" src="https://github.com/user-attachments/assets/f52c77d6-aec9-4b3c-a57f-54486aa9fda4" />
+
+5. What if Analysis(Line Chart) - Too see what if analysis & Simulated Total Cup Points.
+
+<img width="1243" height="683" alt="CQI What If Snapshot" src="https://github.com/user-attachments/assets/3ab24a3b-4614-4f1d-8cc7-e74628a0cf2b" />
 
 Key Insights:
 
