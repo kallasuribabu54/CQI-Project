@@ -55,6 +55,8 @@ Key Visuals:
 
 1. Scatter Charts – Visual comparison between each sensory score and overall quality.
 
+<img width="1393" height="777" alt="CQI Effects Snapshot" src="https://github.com/user-attachments/assets/0b2a19be-a4bb-4946-b3fb-aacbe2afa93a" />
+
 2. Decomposition Tree – Interactive breakdown of how each sensory factor impacts cup score.
 
 3. Bar Charts – scores by region, processing method, and variety.
